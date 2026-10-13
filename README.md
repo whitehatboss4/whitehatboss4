@@ -12,15 +12,53 @@ We follow **Coordinated Vulnerability Disclosure (CVD)** practices to responsibl
 
 ### 👥 Team Members
 
-| Name | GitHub |
-|---|---|
-| Mentor | [y0ny0ns0n](https://github.com/exp-only-no-poc/) |
-| Project Lead | [KIM JIN GYEOM](https://github.com/HUMBLE25) |
-| Project Manager | [0xM1yu](https://github.com/0xM1yu) |
-| Researcher | [kirin](https://github.com/danielcho02) |
-| Researcher | [sumin0218](https://github.com/username5) |
-| Researcher | [Haeun](https://github.com/Haeun322) |
-| Researcher | [Seika](https://github.com/WTCYJ) |
-| Researcher | [seoyc0219](https://github.com/seoyc0219) |
-| Researcher | [freshborn-Sol](https://github.com/freshborn-Sol) |
-| Researcher | [kimrebin](https://github.com/kimrebin) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="40%">Role</th>
+      <th width="60%">GitHub</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mentor</td>
+      <td><a href="https://github.com/exp-only-no-poc">y0ny0ns0n</a></td>
+    </tr>
+    <tr>
+      <td>Project Lead</td>
+      <td><a href="https://github.com/HUMBLE25">KIM JIN GYEOM</a></td>
+    </tr>
+    <tr>
+      <td>Project Manager</td>
+      <td><a href="https://github.com/0xM1yu">0xM1yu</a></td>
+    </tr>
+    <tr>
+      <td>Researcher</td>
+      <td><a href="https://github.com/danielcho02">kirin</a></td>
+    </tr>
+    <tr>
+      <td>Researcher</td>
+      <td><a href="https://github.com/username5">sumin0218</a></td>
+    </tr>
+    <tr>
+      <td>Researcher</td>
+      <td><a href="https://github.com/Haeun322">Haeun</a></td>
+    </tr>
+    <tr>
+      <td>Researcher</td>
+      <td><a href="https://github.com/WTCYJ">Seika</a></td>
+    </tr>
+    <tr>
+      <td>Researcher</td>
+      <td><a href="https://github.com/seoyc0219">seoyc0219</a></td>
+    </tr>
+    <tr>
+      <td>Researcher</td>
+      <td><a href="https://github.com/freshborn-Sol">freshborn-Sol</a></td>
+    </tr>
+    <tr>
+      <td>Researcher</td>
+      <td><a href="https://github.com/kimrebin">kimrebin</a></td>
+    </tr>
+  </tbody>
+</table>

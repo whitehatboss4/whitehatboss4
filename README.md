@@ -19,8 +19,8 @@ We follow **Coordinated Vulnerability Disclosure (CVD)** practices to responsibl
 | Project Manager | [0xM1yu](https://github.com/0xM1yu) |
 | Researcher | [kirin](https://github.com/danielcho02) |
 | Researcher | [sumin0218](https://github.com/username5) |
-| Researcher | [metamong](https://github.com/Haeun322) |
-| Researcher | [Seika](https://github.com/yejunkim2000) |
+| Researcher | [Haeun](https://github.com/Haeun322) |
+| Researcher | [Seika](https://github.com/WTCYJ) |
 | Researcher | [seoyc0219](https://github.com/seoyc0219) |
 | Researcher | [freshborn-Sol](https://github.com/freshborn-Sol) |
 | Researcher | [kimrebin](https://github.com/kimrebin) |

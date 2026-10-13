@@ -1,8 +1,8 @@
-# 🛡️ Team 화햇대장
+### 🛡️ Team 화햇대장
 
 **WhiteHat School 4th Cohort | Cybersecurity Research Team**
 
-## 👋 About Us
+### 👋 About Us
 
 Hi! We are **Team 화햇대장**, a team of 10 cybersecurity researchers participating in the 4th cohort of [WhiteHat School](https://www.whsedu.kr/), a cybersecurity talent development program in South Korea.
 
